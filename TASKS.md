@@ -15,7 +15,7 @@
 - [x] `P0-001` Confirm the project purpose, audience, and desired outcome.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** `ABOUT.md` states the purpose, audience, promise, and boundaries without unresolved placeholders in those sections.
-  - **Evidence:** `ABOUT.md` records the live session purpose, non-technical audience, promise, scope, and success criteria. Verified 2026-08-21.
+  - **Evidence:** `ABOUT.md` records the “AI handoff Live Session” title, purpose, non-technical audience, promise, scope, and success criteria. Verified 2026-08-21.
 - [x] `P0-002` Agree on the first deliverable.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** The deliverable, due date if any, and approval criteria are written here.

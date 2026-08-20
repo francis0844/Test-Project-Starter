@@ -64,6 +64,7 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Reframe the webinar as a live session event titled “I love AI”; keep the existing 30-minute format, audience, teaching goal, demonstrations, Q&A, and downloadable skill.
 - 2026-08-20 — Require agents to fetch and pull the latest remote changes before planning or acting, and to confirm with the user before pulling over uncommitted local edits.
 - 2026-08-21 — Commit and push project changes directly to `main`; use a feature branch only when the user explicitly requests one.
+- 2026-08-21 — Rename the live session from “I love AI” to “AI handoff Live Session”; no other scope, format, or acceptance criteria changed.
 
 ## Constraints and boundaries
 
@@ -98,3 +99,4 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Renamed and reframed the project as a live session event titled “I love AI”; the existing duration, audience, content, demonstrations, Q&A, and downloadable skill remain unchanged.
 - 2026-08-20 — Added a `Sync before reading` section to `AGENTS.md` requiring a `git fetch` and `git pull` check against `origin` before any planning or action; no project scope, format, or acceptance criteria changed.
 - 2026-08-21 — Established direct commits and pushes to `main` as the default repository workflow and recorded the rule in `AGENTS.md`.
+- 2026-08-21 — Renamed the live session from “I love AI” to “AI handoff Live Session” in `ABOUT.md`; all other project details remain unchanged.

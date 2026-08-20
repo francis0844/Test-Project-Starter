@@ -2,7 +2,7 @@
 
 ## Project
 
-**Name:** I love AI
+**Name:** AI handoff Live Session
 
 **One-sentence description:** A 30-minute live session event teaching non-technical professionals how four simple project files enable smooth handoffs between AI agents without sharing chat history.
 
