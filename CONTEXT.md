@@ -62,6 +62,7 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Include a simple four-file explanation, a live Media Magic demonstration, a Claude handoff test, and a downloadable Project Starter skill.
 - 2026-08-20 — Rename the webinar to “How to Understand and Work with AI Agents”, superseding the 2026-08-21 title decision “Working Effectively With AI Agents”.
 - 2026-08-21 — Reframe the webinar as a live session event titled “I love AI”; keep the existing 30-minute format, audience, teaching goal, demonstrations, Q&A, and downloadable skill.
+- 2026-08-20 — Require agents to fetch and pull the latest remote changes before planning or acting, and to confirm with the user before pulling over uncommitted local edits.
 
 ## Constraints and boundaries
 
@@ -94,3 +95,4 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Defined the project as a 30-minute webinar for non-technical professionals, including the four-file teaching model, two live demonstrations, five-minute Q&A, and downloadable Project Starter skill.
 - 2026-08-20 — Renamed the webinar from “Working Effectively With AI Agents” to “How to Understand and Work with AI Agents” in `ABOUT.md`; no other scope, format, or acceptance criteria changed.
 - 2026-08-21 — Renamed and reframed the project as a live session event titled “I love AI”; the existing duration, audience, content, demonstrations, Q&A, and downloadable skill remain unchanged.
+- 2026-08-20 — Added a `Sync before reading` section to `AGENTS.md` requiring a `git fetch` and `git pull` check against `origin` before any planning or action; no project scope, format, or acceptance criteria changed.

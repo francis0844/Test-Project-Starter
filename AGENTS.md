@@ -1,8 +1,18 @@
 # Agent Working Agreement
 
+## Sync before reading
+
+Before planning or acting, bring the local handoff up to date with the remote repository:
+
+1. Run `git fetch origin` and report how far the local branch is ahead of or behind the remote.
+2. If uncommitted local changes exist, report them and ask before pulling. Never discard user edits to reconcile with the remote.
+3. Otherwise run `git pull` and state which files changed.
+
+If the remote is unreachable or access is denied, say so plainly and state that the handoff may be out of date before continuing. Never plan or act on files you have not confirmed are current.
+
 ## Required reading
 
-Before planning or acting, read these files in order:
+After syncing, read these files in order:
 
 1. `ABOUT.md` — stable purpose and boundaries.
 2. `CONTEXT.md` — current state, decisions, people, artifacts, risks, and open questions.
