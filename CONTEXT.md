@@ -5,10 +5,10 @@
 ## Status snapshot
 
 - **Last updated:** 2026-08-21
-- **Current stage:** Establishing the project
-- **Current focus:** Define the project purpose, audience, and desired outcome
-- **Next expected outcome:** A clear project brief and first agreed deliverable
-- **Overall health:** Setup complete; project definition pending
+- **Current stage:** Webinar planning
+- **Current focus:** Build the timed run of show and define the two live demonstrations
+- **Next expected outcome:** A complete 30-minute webinar package ready for rehearsal
+- **Overall health:** Purpose and required components are clear; content and demonstration details remain to be produced
 
 ## Handoff storage
 
@@ -30,19 +30,22 @@ List only files the user approved for project storage. Future agents must have a
 ### Already completed
 
 - Created the private GitHub repository and initial Project Starter handoff structure.
+- Defined the webinar purpose, audience, format, required segments, and success criteria.
 
 ### In progress
 
-- Establishing the project's purpose, audience, desired outcome, and boundaries.
+- Planning the 30-minute webinar and its live demonstration workflows.
 
 ### Planned
 
-- Agree on the first deliverable and create an execution plan.
+- Draft the timed run of show, four-file explanation, demonstration scripts, Claude handoff test, and downloadable Project Starter package.
+- Rehearse and verify timing, demonstrations, and download access.
 
 ## People and responsibilities
 
 - **Repository owner:** Francis Billy Raposas (`francis0844`)
-- **Project roles and responsibilities:** Not established
+- **Webinar organizer:** Francis Billy Raposas
+- **Additional roles and responsibilities:** Not established
 
 ## Important artifacts and links
 
@@ -53,21 +56,31 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Start a new project without carrying facts, decisions, tasks, or attachments from earlier discussion.
 - 2026-08-21 — Store the handoff in a new private repository on the user's personal GitHub account.
 - 2026-08-21 — Use `Test-Project-Starter` as the safe repository name.
+- 2026-08-21 — Organize a webinar titled “Working Effectively With AI Agents” for non-technical professionals.
+- 2026-08-21 — Use the four-file Project Starter handoff to teach agent-to-agent continuity without sharing chat history.
+- 2026-08-21 — Keep the webinar to 30 minutes, reserving five minutes for questions.
+- 2026-08-21 — Include a simple four-file explanation, a live Media Magic demonstration, a Claude handoff test, and a downloadable Project Starter skill.
 
 ## Constraints and boundaries
 
 - Do not import earlier project details or attachments unless the user explicitly introduces them to this new project.
 - The repository is private and future agents need access to the same GitHub repository and permissions.
+- The webinar must fit within 30 minutes, including five minutes of questions.
+- Explanations must be accessible to non-technical professionals.
+- The handoff method must not depend on sharing chat history.
 
 ## Risks and blockers
 
-- The project purpose, scope, audience, success definition, and first deliverable are not established.
+- Live demonstrations can introduce timing and reliability risk; backup or recovery procedures are not yet established.
+- The exact Media Magic workflow, Claude test procedure, and Project Starter download format or hosting location are not yet established.
 
 ## Open questions
 
-- What is the project intended to accomplish?
-- Who is it for?
-- What should the first deliverable be?
+- How should the remaining 25 minutes be divided among the introduction, four-file explanation, Media Magic demonstration, and Claude handoff test?
+- What exact project scenario should the live Media Magic demonstration use?
+- Which Claude product or environment will be used for the handoff test?
+- Where and in what format will attendees download the Project Starter skill?
+- What is the webinar date, delivery platform, and expected audience size?
 
 ## Verification evidence
 
@@ -76,3 +89,4 @@ List only files the user approved for project storage. Future agents must have a
 ## Recent changes
 
 - 2026-08-21 — Created a fresh Project Starter handoff in a new private GitHub repository; no earlier conversation details or attachments were carried over.
+- 2026-08-21 — Defined the project as a 30-minute webinar for non-technical professionals, including the four-file teaching model, two live demonstrations, five-minute Q&A, and downloadable Project Starter skill.
