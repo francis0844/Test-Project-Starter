@@ -28,6 +28,10 @@
   - **Owner:** Francis Billy Raposas (`francis0844`)
   - **Acceptance:** The `assets/` folder exists, every stored file has user consent, and `CONTEXT.md` indexes each approved asset with its purpose and stable location.
   - **Evidence:** GitHub preserves `assets/` through `.gitkeep`; `CONTEXT.md` records that no user-approved assets are stored yet. Verified 2026-08-21.
+- [x] `P0-005` Establish the repository publishing workflow.
+  - **Owner:** Francis Billy Raposas (`francis0844`)
+  - **Acceptance:** The default target for project commits and pushes is recorded as `main` in the operating rules.
+  - **Evidence:** `AGENTS.md` requires direct commits and pushes to `main` unless the user explicitly requests a feature branch. Verified 2026-08-21.
 
 ## Completion gate
 

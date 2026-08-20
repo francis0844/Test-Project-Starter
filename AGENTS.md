@@ -28,6 +28,7 @@ The user’s latest explicit instruction takes precedence. These files take prec
 - Ask before actions that publish, spend money, message people, delete data, expose information, or cannot be easily reversed.
 - Preserve existing work and unknown user edits.
 - Verify important claims against available evidence.
+- Commit and push project changes directly to `main`; do not create feature branches unless the user explicitly requests one.
 - Never store secrets in the handoff files.
 - Do not assume that a referenced asset is accessible. Report missing permissions or broken links.
 - Do not require access to prior conversations.
