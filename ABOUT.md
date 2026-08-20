@@ -2,7 +2,7 @@
 
 ## Project
 
-**Name:** Working Effectively With AI Agents
+**Name:** How to Understand and Work with AI Agents
 
 **One-sentence description:** A 30-minute webinar teaching non-technical professionals how four simple project files enable smooth handoffs between AI agents without sharing chat history.
 

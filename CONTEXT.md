@@ -4,7 +4,7 @@
 
 ## Status snapshot
 
-- **Last updated:** 2026-08-21
+- **Last updated:** 2026-08-20
 - **Current stage:** Webinar planning
 - **Current focus:** Build the timed run of show and define the two live demonstrations
 - **Next expected outcome:** A complete 30-minute webinar package ready for rehearsal
@@ -60,6 +60,7 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Use the four-file Project Starter handoff to teach agent-to-agent continuity without sharing chat history.
 - 2026-08-21 — Keep the webinar to 30 minutes, reserving five minutes for questions.
 - 2026-08-21 — Include a simple four-file explanation, a live Media Magic demonstration, a Claude handoff test, and a downloadable Project Starter skill.
+- 2026-08-20 — Rename the webinar to “How to Understand and Work with AI Agents”, superseding the 2026-08-21 title decision “Working Effectively With AI Agents”.
 
 ## Constraints and boundaries
 
@@ -90,3 +91,4 @@ List only files the user approved for project storage. Future agents must have a
 
 - 2026-08-21 — Created a fresh Project Starter handoff in a new private GitHub repository; no earlier conversation details or attachments were carried over.
 - 2026-08-21 — Defined the project as a 30-minute webinar for non-technical professionals, including the four-file teaching model, two live demonstrations, five-minute Q&A, and downloadable Project Starter skill.
+- 2026-08-20 — Renamed the webinar from “Working Effectively With AI Agents” to “How to Understand and Work with AI Agents” in `ABOUT.md`; no other scope, format, or acceptance criteria changed.
