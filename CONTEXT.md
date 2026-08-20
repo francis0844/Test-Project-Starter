@@ -4,10 +4,10 @@
 
 ## Status snapshot
 
-- **Last updated:** 2026-08-20
-- **Current stage:** Webinar planning
+- **Last updated:** 2026-08-21
+- **Current stage:** Live session planning
 - **Current focus:** Build the timed run of show and define the two live demonstrations
-- **Next expected outcome:** A complete 30-minute webinar package ready for rehearsal
+- **Next expected outcome:** A complete 30-minute live session package ready for rehearsal
 - **Overall health:** Purpose and required components are clear; content and demonstration details remain to be produced
 
 ## Handoff storage
@@ -30,11 +30,11 @@ List only files the user approved for project storage. Future agents must have a
 ### Already completed
 
 - Created the private GitHub repository and initial Project Starter handoff structure.
-- Defined the webinar purpose, audience, format, required segments, and success criteria.
+- Defined the live session purpose, audience, format, required segments, and success criteria.
 
 ### In progress
 
-- Planning the 30-minute webinar and its live demonstration workflows.
+- Planning the 30-minute live session and its demonstration workflows.
 
 ### Planned
 
@@ -44,7 +44,7 @@ List only files the user approved for project storage. Future agents must have a
 ## People and responsibilities
 
 - **Repository owner:** Francis Billy Raposas (`francis0844`)
-- **Webinar organizer:** Francis Billy Raposas
+- **Live session organizer:** Francis Billy Raposas
 - **Additional roles and responsibilities:** Not established
 
 ## Important artifacts and links
@@ -61,12 +61,13 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Keep the webinar to 30 minutes, reserving five minutes for questions.
 - 2026-08-21 — Include a simple four-file explanation, a live Media Magic demonstration, a Claude handoff test, and a downloadable Project Starter skill.
 - 2026-08-20 — Rename the webinar to “How to Understand and Work with AI Agents”, superseding the 2026-08-21 title decision “Working Effectively With AI Agents”.
+- 2026-08-21 — Reframe the webinar as a live session event titled “I love AI”; keep the existing 30-minute format, audience, teaching goal, demonstrations, Q&A, and downloadable skill.
 
 ## Constraints and boundaries
 
 - Do not import earlier project details or attachments unless the user explicitly introduces them to this new project.
 - The repository is private and future agents need access to the same GitHub repository and permissions.
-- The webinar must fit within 30 minutes, including five minutes of questions.
+- The live session must fit within 30 minutes, including five minutes of questions.
 - Explanations must be accessible to non-technical professionals.
 - The handoff method must not depend on sharing chat history.
 
@@ -81,7 +82,7 @@ List only files the user approved for project storage. Future agents must have a
 - What exact project scenario should the live Media Magic demonstration use?
 - Which Claude product or environment will be used for the handoff test?
 - Where and in what format will attendees download the Project Starter skill?
-- What is the webinar date, delivery platform, and expected audience size?
+- What is the live session date, venue or delivery platform, and expected audience size?
 
 ## Verification evidence
 
@@ -92,3 +93,4 @@ List only files the user approved for project storage. Future agents must have a
 - 2026-08-21 — Created a fresh Project Starter handoff in a new private GitHub repository; no earlier conversation details or attachments were carried over.
 - 2026-08-21 — Defined the project as a 30-minute webinar for non-technical professionals, including the four-file teaching model, two live demonstrations, five-minute Q&A, and downloadable Project Starter skill.
 - 2026-08-20 — Renamed the webinar from “Working Effectively With AI Agents” to “How to Understand and Work with AI Agents” in `ABOUT.md`; no other scope, format, or acceptance criteria changed.
+- 2026-08-21 — Renamed and reframed the project as a live session event titled “I love AI”; the existing duration, audience, content, demonstrations, Q&A, and downloadable skill remain unchanged.

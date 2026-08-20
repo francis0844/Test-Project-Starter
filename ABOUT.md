@@ -2,9 +2,9 @@
 
 ## Project
 
-**Name:** How to Understand and Work with AI Agents
+**Name:** I love AI
 
-**One-sentence description:** A 30-minute webinar teaching non-technical professionals how four simple project files enable smooth handoffs between AI agents without sharing chat history.
+**One-sentence description:** A 30-minute live session event teaching non-technical professionals how four simple project files enable smooth handoffs between AI agents without sharing chat history.
 
 ## Purpose
 
@@ -34,18 +34,18 @@ In 30 minutes, attendees will learn a simple, reusable way to hand projects betw
 
 - Technical deep dives intended primarily for developers.
 - Sharing or preserving raw chat history as the handoff mechanism.
-- Topics beyond the 30-minute webinar format unless explicitly added later.
+- Topics beyond the 30-minute live session format unless explicitly added later.
 
 ## Success definition
 
-- The webinar lasts 30 minutes, including five minutes for questions.
+- The live session lasts 30 minutes, including five minutes for questions.
 - The four files are explained in language suitable for non-technical professionals.
 - Both the live Media Magic demonstration and Claude handoff test are delivered successfully.
 - Attendees can access and download the Project Starter skill.
 
 ## Stable terms
 
-- **Project:** The work required to prepare and deliver the webinar.
+- **Project:** The work required to prepare and deliver the live session event.
 - **Four-file handoff:** The combination of `AGENTS.md`, `ABOUT.md`, `CONTEXT.md`, and `TASKS.md` used as portable project memory.
 - **Project Starter:** The downloadable skill that creates and maintains the four-file handoff.
 - **Media Magic:** The environment used for the live demonstration; exact demo workflow is not yet established.
