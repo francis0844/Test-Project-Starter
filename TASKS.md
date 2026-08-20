@@ -15,15 +15,15 @@
 - [x] `P0-001` Confirm the project purpose, audience, and desired outcome.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** `ABOUT.md` states the purpose, audience, promise, and boundaries without unresolved placeholders in those sections.
-  - **Evidence:** `ABOUT.md` records the webinar purpose, non-technical audience, promise, scope, and success criteria. Verified 2026-08-21.
+  - **Evidence:** `ABOUT.md` records the live session purpose, non-technical audience, promise, scope, and success criteria. Verified 2026-08-21.
 - [x] `P0-002` Agree on the first deliverable.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** The deliverable, due date if any, and approval criteria are written here.
-  - **Evidence:** The first deliverable is a complete 30-minute webinar package ready for rehearsal; required components and acceptance criteria are recorded in `ABOUT.md`. No due date has been established. Verified 2026-08-21.
+  - **Evidence:** The first deliverable is a complete 30-minute live session package ready for rehearsal; required components and acceptance criteria are recorded in `ABOUT.md`. No due date has been established. Verified 2026-08-21.
 - [x] `P0-003` Create the first execution plan.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** Tasks have owners or responsible parties, statuses, and clear completion checks.
-  - **Evidence:** The Webinar production phase below assigns responsibility and acceptance checks for each required component. Verified 2026-08-21.
+  - **Evidence:** The Live session production phase below assigns responsibility and acceptance checks for each required component. Verified 2026-08-21.
 - [x] `P0-004` Organize supporting project assets.
   - **Owner:** Francis Billy Raposas (`francis0844`)
   - **Acceptance:** The `assets/` folder exists, every stored file has user consent, and `CONTEXT.md` indexes each approved asset with its purpose and stable location.
@@ -38,9 +38,9 @@
 - [x] Relevant assets are stored with consent and indexed, or explicitly noted as unavailable.
 - [x] The handoff can be understood without previous chat history.
 
-## Current phase — Webinar production
+## Current phase — Live session production
 
-**Goal:** Produce and verify a complete 30-minute webinar package for non-technical professionals.
+**Goal:** Produce and verify a complete 30-minute live session package for non-technical professionals.
 
 - [>] `P1-001` Create the 30-minute run of show.
   - **Owner:** Francis Billy Raposas
@@ -66,11 +66,11 @@
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** Slides or equivalent visuals, presenter notes, demonstration prompts, Q&A transition, and attendee download link are ready for delivery.
   - **Evidence:** Not yet verified
-- [ ] `P1-007` Rehearse and verify the complete webinar.
+- [ ] `P1-007` Rehearse and verify the complete live session.
   - **Owner:** Francis Billy Raposas
   - **Acceptance:** A timed rehearsal finishes within 30 minutes, preserves five minutes for questions, both demonstrations succeed or use documented recovery plans, and the Project Starter download is tested.
   - **Evidence:** Not yet verified
 
 ## Later work
 
-- Record the webinar date, delivery platform, and any post-event follow-up when established.
+- Record the live session date, venue or delivery platform, and any post-event follow-up when established.
